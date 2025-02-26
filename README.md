@@ -1,6 +1,6 @@
 # Data Science Analytics Course: Swedish Housing Market Prediction
 
-This repository contains my project from a Data Science Analytics course, where I developed a predictive model for the Swedish housing market using Python. The project covers the full data science pipeline, including:
+This repository contains Andres Cruz (me) and Wilma Lilljequist's project from a Data Science Analytics course, where we developed a predictive model for the Swedish housing market using Python. The project covers the full data science pipeline, including:
 
 	•	SQL Querying: Extracting and preprocessing housing market data.
 	•	Feature Engineering: Creating and selecting meaningful features to enhance model performance.
